@@ -166,7 +166,7 @@ These are listed here with translations:
 1. I'm A Swinger
 
    `The four thieves influenced the world around them and changed the course of
-   society without anyone ever find out.`
+   society without anyone ever finding out.`
 
 1. Don't bring the Heat
 
@@ -248,7 +248,7 @@ These are listed here with translations:
 1. Full Throttle
 
    `The four thieves attacked a train in motion they quickly made it to the last
-    cars to see what they were after and made it to their escape.`
+    cars to see what they were after and made it back to their escape.`
 
 1. Quick Draw
 
